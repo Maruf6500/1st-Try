@@ -1,2 +1,3 @@
 # 1st-Try
-This is my first work on git hub
+This is my first repository on git hub
+Author- Maruf Hossain
